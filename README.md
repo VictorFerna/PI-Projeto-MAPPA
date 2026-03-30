@@ -67,10 +67,10 @@ Este projeto pode auxiliar:
 | Nome | Função |
 |------|--------|
 |  **[VICTOR ALVES RIBEIRO FERNANDES]** | **P.O DO PROJETO.** |
-|  **[LUCAS HENRIQUE MONTEIRO]** | **ARQUITETO (Dev Team) FRONT/BACK** |
+|  **[LUCAS HENRIQUE MONTEIRO]** | **ARQUITETO ** |
 |  **[DANILO LISBOA BARCELOS]** | **ANALISTA DE DADOs** |
-|  **[IGOR CAVALCANTE RODRIGUES]** | **Scrum Master( Dev Team) Front/Back** |
-|  **[JOÃO VITOR VELOZO OLIVEIRA]** | **DASHBOARD** |
+|  **[IGOR CAVALCANTE RODRIGUES]** | **SCRUM MASTER** |
+|  **[JOÃO VITOR VELOZO OLIVEIRA]** | **ADMINISTRADOR BANCO DE DAOS** |
 ---
 
 ## 🗂️ Estrutura Inicial do Repositório
