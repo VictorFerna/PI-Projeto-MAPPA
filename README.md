@@ -23,6 +23,7 @@
 
 <img src="https://via.placeholder.com/800x400.png?text=Preview+do+Dashboard" alt="preview dashboard"/>
 
+</div>
 
 
 ---
