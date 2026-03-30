@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚧 Projeto Integrador I  
+# 🚧 Projeto Integrador I - MAPPA
 ## 📊 Análise de Acidentes em Rodovias Federais
 
 <img src="https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge">
