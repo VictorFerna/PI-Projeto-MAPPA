@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚧 Projeto Integrador I - MAPPA
-## 📊 Análise de Acidentes em Rodovias Federais
+## 📊 Estudo de Acidentes em Rodovias Federais
 
 <img src="https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python">
@@ -30,16 +30,16 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo analisar a ocorrência de acidentes em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
+Este projeto tem como objetivo estudar as ocorrências de acidentes em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
 
-A iniciativa utiliza técnicas de **análise de dados** para identificar padrões e gerar insights que possam contribuir para a melhoria da segurança viária.
+A iniciativa utiliza técnicas de **análise de dados** como ferramenta de estudo, para identificar padrões e gerar insights que possam contribuir para a melhoria da segurança viária.
 
 ---
 
 ## 🎯 Objetivos
 
 ### 🧩 Objetivo Geral
-Realizar a **coleta, análise e visualização de dados** de acidentes de trânsito.
+Desenvolver um dashboard interativo que tenha como base a **coleta, análise e visualização de dados** de acidentes de trânsito.
 
 ### 📍 Objetivos Específicos
 
@@ -54,8 +54,9 @@ Realizar a **coleta, análise e visualização de dados** de acidentes de trâns
 
 ## 💡 Impacto Esperado
 
-Este projeto pode auxiliar:
+Este projeto: Tem como meta desenvolver uma ferramenta baseada nos estudos realizados, que otimize as atividades e avaliações de profissionais de segurança viária.
 
+Pode auxiliar:
 - 🏛️ **Gestores públicos** na tomada de decisão  
 - 📚 **Pesquisadores** em estudos de mobilidade  
 - 🚗 **Sociedade** na conscientização sobre acidentes  
