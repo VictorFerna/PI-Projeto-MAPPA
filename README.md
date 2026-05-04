@@ -30,7 +30,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo estudar as ocorrências de acidentes em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
+Este projeto tem como objetivo estudar as ocorrências de acidentes de trânsito em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
 
 A iniciativa utiliza técnicas de **análise de dados** como ferramenta de estudo, para identificar padrões e gerar insights que possam contribuir para a melhoria da segurança viária.
 
@@ -74,11 +74,10 @@ Pode auxiliar:
 |  **[JOÃO VITOR VELOZO OLIVEIRA]** | **ADMINISTRADOR BANCO DE DAOS** |
 ---
 
-## 🗂️ Estrutura Inicial do Repositório
+## 🗂️ Estrutura do Repositório
 
-- **📄 canvas_projeto:**
-- **📄 definicao_problema:**
-- **📚 documentacao:**
+- **📚 Docs/Un1:**
+- **📄 README.md:**
 
 ---
 
