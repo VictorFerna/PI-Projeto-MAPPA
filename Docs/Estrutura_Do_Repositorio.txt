@@ -1,0 +1,32 @@
+# Estrutura de Pastas do Projeto Integrador I
+
+ProjetoIntegradorI/
+│
+├── docs/                  
+│   ├── Un1/        
+│   │   ├── MapaDePersonas/
+|   |   |   ├── JOÃO MAPA DE PERSONA.pdf
+|   |   |   ├── PEDRO MAPA DE PERSONA.pdf
+|   |   |   └── VICTOR MAPA DE PERSONA.pdf
+|   |   ├── Canvas de Projeto
+|   |   ├── Definição de Problema
+|   |   ├── Documento de Visão, Definição de Problema, Análise de Cenário e Viabilidade.pdf
+|   |   └── DESCRIÇÃO UNIDADE 1.md
+|   |
+│   ├── Un2/         
+│   │   ├── Requisitos e Cronograma MAPPA.pdf
+|   |   └── DESCRIÇÃO UNIDADE 2.md
+|   |
+│   ├── Un3/        
+│   │   ├── Diagrama Textual.pdf
+│   │   ├── Modelagem TABELAS.pdf
+│   │   ├── ModeloNoSQL.pdf
+│   │   ├── WireFrame Dashboard.pdf
+│   │   ├── WireFrame todas as Telas.pdf
+|   |   └── DESCRIÇÃO UNIDADE 3.md
+|   |
+│   ├── Un4/
+│   │
+│   └── Un3/ 
+│ 
+└── README.md              # Apresentação geral do Projeto
