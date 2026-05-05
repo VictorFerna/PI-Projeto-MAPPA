@@ -10,8 +10,8 @@
 
 ---
 
-📍 Foco no **Distrito Federal (DF)** e regiões do entorno  
-📈 Identificação de padrões, tendências e fatores de risco  
+📍 Foco no **Distrito Federal (DF)** e regiões do entorno.  
+📈 Identificação de padrões, tendências e fatores de risco.  
 
 </div>
 
