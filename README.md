@@ -67,10 +67,10 @@ Pode auxiliar:
 
 | Nome | Função | GitHub |
 |------|------|------|
-| VICTOR ALVES RIBEIRO FERNANDES | P.O DO PROJETO | [@VictorFenna](https://github.com/VictorFenna) |
+| VICTOR ALVES RIBEIRO FERNANDES | P.O DO PROJETO | [@VictorFerna](https://github.com/VictorFerna) |
 | LUCAS HENRIQUE MONTEIRO | ARQUITETO | [@Lucasmonteiro](https://github.com/Lucasmonteiro) |
 | DANILO LISBOA BARCELOS | ANALISTA DE DADOS | [@Danilo698](https://github.com/Danilo698) |
-| IGOR CAVALCANTE RODRIGUES | SCRUM MASTER | [@igorcavalcante](https://github.com/igorcavalcante) |
+| IGOR CAVALCANTE RODRIGUES | SCRUM MASTER | [@igorcavalcantee](https://github.com/igorcavalcantee) |
 | JOÃO VITOR VELOZO OLIVEIRA | ADMINISTRADOR BANCO DE DADOS | [@Jvvelozo](https://github.com/Jvvelozo) |
 ---
 
