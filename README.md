@@ -68,7 +68,7 @@ Pode auxiliar:
 | Nome | Função | GitHub |
 |------|------|------|
 | VICTOR ALVES RIBEIRO FERNANDES | P.O DO PROJETO | [@VictorFerna](https://github.com/VictorFerna) |
-| LUCAS HENRIQUE MONTEIRO | ARQUITETO | [@Lucasmonteiro](https://github.com/Lucasmonteiro) |
+| LUCAS HENRIQUE MONTEIRO | ARQUITETO | [@Lucasmonnteiro](https://github.com/Lucasmonnteiro) |
 | DANILO LISBOA BARCELOS | ANALISTA DE DADOS | [@Danilo698](https://github.com/Danilo698) |
 | IGOR CAVALCANTE RODRIGUES | SCRUM MASTER | [@igorcavalcantee](https://github.com/igorcavalcantee) |
 | JOÃO VITOR VELOZO OLIVEIRA | ADMINISTRADOR BANCO DE DADOS | [@Jvvelozo](https://github.com/Jvvelozo) |
