@@ -65,13 +65,13 @@ Pode auxiliar:
 
 ## 👥 Equipe
 
-| Nome | Função |
-|------|--------|
-|  **[VICTOR ALVES RIBEIRO FERNANDES]** | **P.O DO PROJETO** |
-|  **[LUCAS HENRIQUE MONTEIRO]** | **ARQUITETO** |
-|  **[DANILO LISBOA BARCELOS]** | **ANALISTA DE DADOS** |
-|  **[IGOR CAVALCANTE RODRIGUES]** | **SCRUM MASTER** |
-|  **[JOÃO VITOR VELOZO OLIVEIRA]** | **ADMINISTRADOR BANCO DE DADOS** |
+| Nome | Função | GitHub |
+|------|------|------|
+| VICTOR ALVES RIBEIRO FERNANDES | P.O DO PROJETO | [@VictorFenna](https://github.com/VictorFenna) |
+| LUCAS HENRIQUE MONTEIRO | ARQUITETO | [@Lucasmonteiro](https://github.com/Lucasmonteiro) |
+| DANILO LISBOA BARCELOS | ANALISTA DE DADOS | [@Danilo698](https://github.com/Danilo698) |
+| IGOR CAVALCANTE RODRIGUES | SCRUM MASTER | [@igorcavalcante](https://github.com/igorcavalcante) |
+| JOÃO VITOR VELOZO OLIVEIRA | ADMINISTRADOR BANCO DE DADOS | [@Jvvelozo](https://github.com/Jvvelozo) |
 ---
 
 ## 🗂️ Estrutura do Repositório
