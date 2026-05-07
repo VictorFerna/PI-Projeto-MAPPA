@@ -77,7 +77,7 @@ Pode auxiliar:
 ## 🗂️ Estrutura do Repositório
 
 - **📚 Docs/Un1/Un2/Un3/Un4/Un5:**
-- **📄 Extrutura_Do_Repositorio.txt:**
+- **📄 Estrutura_Do_Repositorio.txt:**
 - **📄 README.md:**
 
 ---
