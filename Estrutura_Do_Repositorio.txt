@@ -2,7 +2,10 @@
 
 ProjetoIntegradorI/
 │
-├── docs/                  
+├── docs/
+|   ├── imagens/
+|   |   └── dashboard_preview.png
+|   |
 │   ├── Un1/        
 │   │   ├── MapaDePersonas/
 |   |   |   ├── JOÃO MAPA DE PERSONA.pdf
@@ -18,6 +21,7 @@ ProjetoIntegradorI/
 |   |   └── DESCRIÇÃO UNIDADE 2.md
 |   |
 │   ├── Un3/        
+│   │   ├── Diagrama ETL MAPPA.pdf
 │   │   ├── Diagrama Textual.pdf
 │   │   ├── Modelagem TABELAS.pdf
 │   │   ├── ModeloNoSQL.pdf
@@ -26,7 +30,7 @@ ProjetoIntegradorI/
 |   |   └── DESCRIÇÃO UNIDADE 3.md
 |   |
 │   ├── Un4/
-│   │
-│   └── Un3/ 
-│ 
-└── README.md              # Apresentação geral do Projeto
+│  
+├── Documento Estrutural.pdf               # Relatório Geral do Projeto
+├── Estrutura_Do_Repositorio.txt
+└── README.md                              # Apresentação geral do Projeto
