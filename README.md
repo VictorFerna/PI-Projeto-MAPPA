@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="./Docs/imagens/dashboard_preview.png" alt="Preview do Dashboard" width="800">
+<img src="./Docs/imagens/dashboard_preview.png" alt="Preview do Dashboard" width="400">
 
 </div>
 
