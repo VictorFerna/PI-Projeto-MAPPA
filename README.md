@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/800x400.png?text=Preview+do+Dashboard" alt="preview dashboard"/>
+<img src="./imagens/dashboard_preview.png" alt="Preview do Dashboard" width="800">
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo estudar as ocorrências de acidentes de trânsito em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
+Este projeto do curso de ciência da computação tem como objetivo estudar as ocorrências de acidentes de trânsito em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
 
 A iniciativa utiliza técnicas de **análise de dados** como ferramenta de estudo, para identificar padrões e gerar insights que possam contribuir para a melhoria da segurança viária.
 
@@ -76,7 +76,7 @@ Pode auxiliar:
 
 ## 🗂️ Estrutura do Repositório
 
-- **📚 Docs/Un1/Un2/Un3/Un4/Un5:**
+- **📚 Docs/imagnes/Un1/Un2/Un3/Un4/Un5:**
 - **📄 Estrutura_Do_Repositorio.txt:**
 - **📄 README.md:**
 

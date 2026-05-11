@@ -52,6 +52,9 @@ GRUPO MAPPA - VICTOR FERNANDES, JOÃO VITOR VELOZO, IGOR CAVALCANTE, LUCAS MONTE
 
 &#x20;  - desenvolvido por VICTOR FERNANDES e foi enviado por VICTOR FERNANDES
 
+* **Diagrama ETL MAPPA (versão Nº1)** consta o diagrama do fluxo do etl do projeto.
+
+&#x20;  - desenvolvido por LUCAS MONTEIRO e foi enviado por VICTOR FERNANDES
 
 
 ## Link do Figma.
