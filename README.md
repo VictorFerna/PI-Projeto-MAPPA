@@ -54,12 +54,13 @@ Desenvolver um dashboard interativo que tenha como base a **coleta, análise e v
 
 ## 💡 Impacto Esperado
 
-Este projeto: Tem como meta desenvolver uma ferramenta baseada nos estudos realizados, que otimize as atividades e avaliações de profissionais de segurança viária.
+Este projeto: Tem como meta desenvolver uma ferramenta baseada nos estudos realizados, que otimize as atividades e avaliações de profissionais de segurança viária, impacto vitál é beneficiar os condutores indiretamente, que utilizam diariamente as rodovias federais do DF e Entorno, especialmente trabalhadores do transporte e da logística, por meio de decisões mais qualificadas baseadas em evidências.
 
 Pode auxiliar:
+- 🚗 **Sociedade** condutores das rodovias federais do DF e Entorno
 - 🏛️ **Gestores públicos** na tomada de decisão  
 - 📚 **Pesquisadores** em estudos de mobilidade  
-- 🚗 **Sociedade** na conscientização sobre acidentes  
+  
 
 ---
 
