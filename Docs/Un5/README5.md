@@ -49,6 +49,4 @@ GRUPO MAPPA - VICTOR FERNANDES, JOÃO VITOR VELOZO, IGOR CAVALCANTE, LUCAS MONTE
 
 &#x20;  - o documento foi desenvolvido por grupo MAPPA e enviados por Victor Fernandes.
 
-&#x20;  - o documento foi desenvolvido por grupo MAPPA e enviados por Victor Fernandes.
-
 * **LINK DO WEB PRODUCT:**- https://pi-projeto-mappa-k8chey3lbkovgwmtp5kpsn.streamlit.app
