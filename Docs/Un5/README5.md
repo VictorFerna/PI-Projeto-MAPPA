@@ -48,3 +48,7 @@ GRUPO MAPPA - VICTOR FERNANDES, JOÃO VITOR VELOZO, IGOR CAVALCANTE, LUCAS MONTE
 * **Tutorial de Instalação e Execução do protótipo.pdf (versão Nº1)** esse documento no formato pdf é um tutorial para usuários do protótipo.
 
 &#x20;  - o documento foi desenvolvido por grupo MAPPA e enviados por Victor Fernandes.
+
+&#x20;  - o documento foi desenvolvido por grupo MAPPA e enviados por Victor Fernandes.
+
+* **LINK DO WEB PRODUCT:**- https://pi-projeto-mappa-k8chey3lbkovgwmtp5kpsn.streamlit.app
