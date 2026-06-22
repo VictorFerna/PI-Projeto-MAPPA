@@ -7,7 +7,7 @@
 3. Instale os requisitos:
 
 ```bash
-pip install -r requerimentos_dashboard.txt
+pip install -r requirements.txt
 ```
 
 4. Rode:
