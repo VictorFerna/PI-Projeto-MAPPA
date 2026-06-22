@@ -14,23 +14,36 @@ ProjetoIntegradorI/
 |   |   ├── Canvas de Projeto
 |   |   ├── Definição de Problema
 |   |   ├── Documento de Visão, Definição de Problema, Análise de Cenário e Viabilidade.pdf
-|   |   └── DESCRIÇÃO UNIDADE 1.md
+|   |   └── DESCRIÇÃO UNIDADE 1.md   #README1.md  
 |   |
 │   ├── Un2/         
 │   │   ├── Requisitos e Cronograma MAPPA.pdf
-|   |   └── DESCRIÇÃO UNIDADE 2.md
+|   |   └── DESCRIÇÃO UNIDADE 2.md    #README2.md  
 |   |
 │   ├── Un3/        
 │   │   ├── Diagrama ETL MAPPA.pdf
-│   │   ├── Diagrama Textual.pdf
 │   │   ├── Modelagem TABELAS.pdf
 │   │   ├── ModeloNoSQL.pdf
 │   │   ├── WireFrame Dashboard.pdf
 │   │   ├── WireFrame todas as Telas.pdf
-|   |   └── DESCRIÇÃO UNIDADE 3.md
+|   |   └── DESCRIÇÃO UNIDADE 3.md     #README3.md  
 |   |
 │   ├── Un4/
-│  
-├── Documento Estrutural.pdf               # Relatório Geral do Projeto
+|   |   ├── Documentos Insights MAPPA.pdf
+|   |   └── DESCRIÇÃO UNIDADE 4.md      #README4.md  
+|   |
+│   ├── Un5/
+|   |   ├── Relátorio de conformidade MAPPA.pdf
+|       └── DESCRIÇÃO UNIDADE 5.md      #README5.md  
+|
+├── prototype/
+│   │   ├── dados_prf/                # Onde se encontra os csv's dos dados de acidentes da PRF (dos anos 2016 até 2026).
+│   │   ├── saida_dashbard/           # Onde se encontra o output do etl mappa, os resultados do tratamento dos dados.
+│   │   ├── app_mappa_streamlit_v2.py    # Código do desenvolvimento do dashboard, com streamlit
+│   │   ├── etl_mappa_v3.py           # ETL, onde ocorre o tratamento dos dados.
+│   │   ├── Descrição do protótipo.   #README6.md  
+|       └── requerimentos_dashboard.txt
+|
+├── .pdf               # Documentação oficial do Projeto
 ├── Estrutura_Do_Repositorio.txt
 └── README.md                              # Apresentação geral do Projeto

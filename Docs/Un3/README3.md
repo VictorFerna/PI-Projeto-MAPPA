@@ -1,6 +1,6 @@
 # UNIDADE 3 - versão 1
 
-desenvolvido por VICTOR FERNANDES VICTOR FERNANDES enviado por VICTOR FERNANDES
+desenvolvido por VICTOR FERNANDES enviado por VICTOR FERNANDES
 
 
 
@@ -31,18 +31,13 @@ GRUPO MAPPA - VICTOR FERNANDES, JOÃO VITOR VELOZO, IGOR CAVALCANTE, LUCAS MONTE
 ## descrição dos documentos
 
 
+* **Modelagem TABELAS (versão Nº2)** consta o diagrama visual completa da modelagem dos dados.
 
-* **Diagrama Textual (versão Nº1)** consta o diagrama textual da modelagem de dados visual.
+&#x20;  - desenvolvido por JOÃO VITOR VELOZO e VICTOR FERNANDES, e foi enviado por VICTOR FERNANDES
 
-&#x20;  - desenvolvido por JOÃO VITOR VELOZO e foi enviado por VICTOR FERNANDES
+* **ModeloNoSQL (versão Nº2)** consta o diagrama da modelagem no sql.
 
-* **Modelagem TABELAS (versão Nº1)** consta o diagrama visual completa da modelagem dos dados.
-
-&#x20;  - desenvolvido por JOÃO VITOR VELOZO e foi enviado por VICTOR FERNANDES
-
-* **ModeloNoSQL (versão Nº1)** consta o diagrama da modelagem no sql.
-
-&#x20;  - desenvolvido por JOÃO VITOR VELOZO e foi enviado por VICTOR FERNANDES
+&#x20;  - desenvolvido por JOÃO VITOR VELOZO e VICTOR FERNANDES, e foi enviado por VICTOR FERNANDES
 
 * **WireFrame Dashboard (versão Nº1)** consta o wireframe desenvolvido pelo figma do resultado esperado do dashboard.
 
@@ -52,9 +47,9 @@ GRUPO MAPPA - VICTOR FERNANDES, JOÃO VITOR VELOZO, IGOR CAVALCANTE, LUCAS MONTE
 
 &#x20;  - desenvolvido por VICTOR FERNANDES e foi enviado por VICTOR FERNANDES
 
-* **Diagrama ETL MAPPA (versão Nº1)** consta o diagrama do fluxo do etl do projeto.
+* **Diagrama ETL MAPPA (versão Nº2)** consta o diagrama do fluxo do etl do projeto.
 
-&#x20;  - desenvolvido por LUCAS MONTEIRO e foi enviado por VICTOR FERNANDES
+&#x20;  - desenvolvido por LUCAS MONTEIRO e VICTOR FERNANDES, e foi enviado por VICTOR FERNANDES
 
 
 ## Link do Figma.

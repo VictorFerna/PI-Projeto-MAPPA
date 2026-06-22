@@ -1,6 +1,6 @@
 # UNIDADE 1 - versão 1
 
-desenvolvido por VICTOR FERNANDES VICTOR FERNANDES e enviado por VICTOR FERNANDES
+desenvolvido por VICTOR FERNANDES e enviado por VICTOR FERNANDES
 
 
 
@@ -42,11 +42,11 @@ GRUPO MAPPA - VICTOR FERNANDES, JOÃO VITOR VELOZO, IGOR CAVALCANTE, LUCAS MONTE
 
 &#x20;  - os documentos foram desenvolvidos por Victor Fernandes e enviados por Victor Fernandes
 
-* **Canvas de projeto (versão Nº1)** esse documento no formato pdf é um canva de projeto.
+* **Canvas de projeto (versão Nº2)** esse documento no formato pdf é um canva de projeto.
 
 &#x20;  - o documento foi desenvolvido por Victor Fernandes e enviados por Victor Fernandes.
 
-* **Documento de Visão, Definição de Problema, Análise de Cenário e Viabilidade (versão Nº3)** é um documento em pdf, sendo o documento core da unidade, conta toda ideia inicial do projeto MAPPA.
+* **Documento de Visão, Definição de Problema, Análise de Cenário e Viabilidade (versão Nº4)** é um documento em pdf, sendo o documento core da unidade, conta toda ideia inicial do projeto MAPPA.
 
 &#x20;  - o documento foi desenvolvido por Victor Fernandes, Igor Cavalcante, Lucas Monteiro, João Vitor Velozo, Danilo Lisboa, e foi enviado por Victor Fernandes
 
