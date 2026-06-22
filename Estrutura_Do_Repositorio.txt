@@ -33,6 +33,9 @@ ProjetoIntegradorI/
 |   |   └── DESCRIÇÃO UNIDADE 4.md      #README4.md  
 |   |
 │   ├── Un5/
+|   |   ├── Demo Projeto MAPPA.mp4
+|   |   ├── Projeto MAPPA Pitch.pdf
+|   |   ├── Tutorial de Instalação e Execução do protótipo.pdf
 |   |   ├── Relátorio de conformidade MAPPA.pdf
 |       └── DESCRIÇÃO UNIDADE 5.md      #README5.md  
 |
@@ -44,6 +47,6 @@ ProjetoIntegradorI/
 │   │   ├── Descrição do protótipo.   #README6.md  
 |       └── requerimentos_dashboard.txt
 |
-├── .pdf               # Documentação oficial do Projeto
+├── .pdf                               # Documentação oficial do Projeto
 ├── Estrutura_Do_Repositorio.txt
 └── README.md                              # Apresentação geral do Projeto
