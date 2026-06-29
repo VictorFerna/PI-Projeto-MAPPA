@@ -89,6 +89,6 @@ Pode auxiliar:
 ## 📊 Status do Projeto
 <div align="center">
 
-🟡 Em desenvolvimento
+🟢 Concluído 
 
 </div>
