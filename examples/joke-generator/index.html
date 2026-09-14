@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gerador de Piadas - MAPPA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Gerador de Piadas</h1>
+    <p id="description">Clique no botão para buscar uma piada aleatória da JokeAPI.</p>
+
+    <div id="jokeCard" class="card hidden">
+      <p id="jokeText" class="joke"></p>
+      <p id="jokeExtra" class="joke-extra"></p>
+    </div>
+
+    <div class="controls">
+      <button id="getJoke">Gerar piada</button>
+      <button id="copyJoke" disabled>Copiar</button>
+    </div>
+
+    <p id="status" class="status"></p>
+
+    <footer>
+      <small>Fonte: <a href="https://v2.jokeapi.dev/" target="_blank" rel="noopener">JokeAPI</a></small>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
