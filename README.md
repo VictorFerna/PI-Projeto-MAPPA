@@ -5,8 +5,8 @@
 
 <img src="https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/data%20analysis-pandas-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/dashboard-interativo-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fstatus-concluido-yellow">
 
 ---
 
