@@ -3,10 +3,10 @@
 # 🚧 Projeto Integrador I - MAPPA
 ## 📊 Estudo de Acidentes de Trânsito em Rodovias Federais
 
-<img src="https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/status-concluido-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/dashboard-interativo-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/status-concluido-yellow?style=for-the-badge">
+
 
 ---
 
